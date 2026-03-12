@@ -1,0 +1,69 @@
+{
+    "year": 3,
+    "title": "Year 3",
+    "modules": [
+        {
+            "code": "CS310",
+            "name": "Project",
+            "description": "Dissertation - either you love it or you hate it",
+            "notes": [
+                {"title": "Report Writing Tips", "url": "#"}
+            ],
+            "past_papers": []
+        },
+        {
+            "code": "CS325",
+            "name": "Compiler Design",
+            "description": "Build a thing",
+            "notes": [
+                {"title": "Parsing", "url": "#"}
+            ],
+            "past_papers": [
+                {"year": "2025", "url": "#"},
+                {"year": "2024", "url": "#"},
+                {"year": "2023", "url": "#"}
+            ],
+            "seminar_exercises": [
+                {"title": "Lab", "url": "#"}
+            ]
+        },
+        {
+            "code": "CS331",
+            "name": "Neural Computing",
+            "description": "Has biology in it for some reason",
+            "notes": [
+                {"title": "Perceptrons & MLPs", "url": "#"}
+            ],
+            "past_papers": [
+                {"year": "2025", "url": "#"},
+                {"year": "2024", "url": "#"},
+                {"year": "2023", "url": "#"}
+            ]
+        },
+        {
+            "code": "CS342",
+            "name": "Machine Learning",
+            "description": "What makes the money",
+            "notes": [
+                {"title": "Probability", "url": "#"}
+            ],
+            "past_papers": [
+                {"year": "2025", "url": "#"},
+                {"year": "2024", "url": "#"},
+                {"year": "2023", "url": "#"}
+            ]
+        },
+        {
+            "code": "CS355",
+            "name": "Digital Forensics",
+            "description": "Image things",
+            "notes": [
+                {"title": "Image fundamentals", "url": "#"}
+            ],
+            "past_papers": [
+                {"year": "2025", "url": "#"},
+                {"year": "2024", "url": "#"}
+            ]
+        }
+    ]
+}

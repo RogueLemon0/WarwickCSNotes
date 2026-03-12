@@ -1,0 +1,97 @@
+{
+    "year": 1,
+    "title": "Year 1",
+    "modules": [
+        {
+            "code": "CS118",
+            "name": "Programming for Computer Scientists",
+            "description": "How to make program",
+            "notes": [
+                {"title": "AAAAAAAAAAAAAA", "url": "#"},
+                {"title": "BBBBBBBBBB", "url": "#"},
+                {"title": "CCCCCCCCCCC", "url": "#"}
+            ],
+            "past_papers": [
+                {"year": "2025", "url": "#"},
+                {"year": "2024", "url": "#"},
+                {"year": "2023", "url": "#"}
+            ]
+        },
+        {
+            "code": "CS126",
+            "name": "Design of Information Structures",
+            "description": "Data Structures",
+            "notes": [
+                {"title": "Time Complexity", "url": "#"},
+                {"title": "Stacks and Queues", "url": "#"},
+                {"title": "Trees", "url": "#"}
+            ],
+            "past_papers": [
+                {"year": "2023", "url": "#"},
+                {"year": "2022", "url": "#"},
+                {"year": "2021", "url": "#"}
+            ],
+            "seminar_exercises": [
+                {"title": "Lab 1", "url": "#"},
+                {"title": "Lab 2", "url": "#"}
+            ]
+        },
+        {
+            "code": "CS130",
+            "name": "Sets and Proofs",
+            "description": "AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+            "notes": [
+                {"title": "Logic & Propositions", "url": "#"},
+                {"title": "Sets", "url": "/notes/CS130/Sets"},
+                {"title": "Relations", "url": "#"},
+                {"title": "Functions", "url": "#"},
+                {"title": "Countability", "url": "#"}
+            ],
+            "past_papers": [
+                {"year": "2025", "url": "#"},
+                {"year": "2024", "url": "#"}
+            ]
+        },
+        {
+            "code": "CS132",
+            "name": "Computer Organisation and Architecture",
+            "description": "Hardware fundamentals",
+            "notes": [
+                {"title": "Data Representation", "url": "#"},
+                {"title": "Digital Logic", "url": "#"},
+                {"title": "Assembly", "url": "#"}
+            ],
+            "past_papers": [
+                {"year": "2025", "url": "#"},
+                {"year": "2024", "url": "#"}
+            ],
+            "seminar_exercises": [
+                {"title": "Lab 1", "url": "#"}
+            ]
+        },
+        {
+            "code": "CS133",
+            "name": "Professional Skills",
+            "description": "Academic writing and ethics or something idk I didn't go to lectures",
+            "notes": [
+                {"title": "Ethics", "url": "#"}
+            ],
+            "past_papers": []
+        },
+        {
+            "code": "CS141",
+            "name": "Functional Programming",
+            "description": "We love Haskell",
+            "past_papers": [
+                {"year": "2025", "url": "#"},
+                {"year": "2024", "url": "#"},
+                {"year": "2023", "url": "#"}
+            ],
+            "seminar_exercises": [
+                {"title": "Lab 1", "url": "#"},
+                {"title": "Lab 2", "url": "#"},
+                {"title": "Lab 3", "url": "#"}
+            ]
+        }
+    ]
+}
